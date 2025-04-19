@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cherrywoods/last-freeze-of-spring/main?urlpath=%2Fdoc%2Ftree%2Flast-freeze-of-spring.ipynb)
+
 # Last Freeze of Spring (Germany)
 Analyse the date of the last spring freeze using German weather service data. 
 Data only available for Germany.
